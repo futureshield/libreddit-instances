@@ -2,7 +2,7 @@
 |-|-|-|-|-|-|
 |https://libreddit.kavin.rocks|WWW|v0.31.0|🇮🇳 IN|||
 |https://reddit.invak.id|WWW|v0.31.0|🇧🇬 BG|||
-|https://libreddit.eu.org|WWW|v0.31.0|🇩🇪 DE|✅||
+|https://libreddit.eu.org|WWW|v0.31.0|🇸🇪 SE|✅||
 |https://reddit.simo.sh|WWW|v0.30.1|🇧🇬 BG|||
 |https://libreddit.strongthany.cc|WWW|v0.30.1|🇺🇸 US|||
 |https://libreddit.pussthecat.org|WWW|v0.31.0|🇩🇪 DE|||
